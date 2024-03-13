@@ -1,8 +1,16 @@
+AWS DevOps project web series
+
 Part 0 | ABOUT THE PROJECT | AWS GitHub AUTOSCALING CICD CLOUDFLARE EC2 ASG ALB SSL
 https://www.youtube.com/watch?v=8bnxLx1VGgg
 
 Part 1 | EC2 Configuration | AWS GitHub AUTOSCALING CICD CLOUDFLARE EC2 ASG ALB SSL
 https://www.youtube.com/watch?v=J7jBw5Pbe08
+
+Part 2 | More about EC2 and Launch Template | AWS GitHub AUTOSCALING CICD CLOUDFLARE EC2 ASG ALB SSL
+https://www.youtube.com/watch?v=qijxQwUWhCs
+
+Part 3 | ALB AND TARGET GROUPS | AWS GitHub AUTOSCALING CICD CLOUDFLARE EC2 ASG ALB SSL
+https://www.youtube.com/watch?v=6Sb1j60n60E
 
 #aws
 #github
