@@ -12,6 +12,12 @@ https://www.youtube.com/watch?v=qijxQwUWhCs
 Part 3 | ALB AND TARGET GROUPS | AWS GitHub AUTOSCALING CICD CLOUDFLARE EC2 ASG ALB SSL
 https://www.youtube.com/watch?v=6Sb1j60n60E
 
+Part 4 | ASG Autoscaling | AWS GitHub AUTOSCALING CICD CLOUDFLARE EC2 ASG ALB SSL
+https://www.youtube.com/watch?v=p7NlQQmubmw
+
+Part 5 | NodeJS AWS Code Pipeline Code Deploy | AWS GitHub AUTOSCALING CICD EC2 ASG ALB SSL
+https://www.youtube.com/watch?v=Re72SFxRdf0
+
 #aws
 #github
 #autoscaling
