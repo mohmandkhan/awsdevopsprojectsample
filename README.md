@@ -1,6 +1,7 @@
 AWS DevOps project web series
 
 Part 0 | ABOUT THE PROJECT | AWS GitHub AUTOSCALING CICD CLOUDFLARE EC2 ASG ALB SSL
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8bnxLx1VGgg/0.jpg)](https://www.youtube.com/watch?v=8bnxLx1VGgg)
 https://www.youtube.com/watch?v=8bnxLx1VGgg
 
 Part 1 | EC2 Configuration | AWS GitHub AUTOSCALING CICD CLOUDFLARE EC2 ASG ALB SSL
