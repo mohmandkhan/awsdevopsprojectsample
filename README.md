@@ -2,22 +2,21 @@ AWS DevOps project web series
 
 Part 0 | ABOUT THE PROJECT | AWS GitHub AUTOSCALING CICD CLOUDFLARE EC2 ASG ALB SSL
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8bnxLx1VGgg/0.jpg)](https://www.youtube.com/watch?v=8bnxLx1VGgg)
-https://www.youtube.com/watch?v=8bnxLx1VGgg
 
 Part 1 | EC2 Configuration | AWS GitHub AUTOSCALING CICD CLOUDFLARE EC2 ASG ALB SSL
-https://www.youtube.com/watch?v=J7jBw5Pbe08
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/J7jBw5Pbe08/0.jpg)](https://www.youtube.com/watch?v=J7jBw5Pbe08)
 
 Part 2 | More about EC2 and Launch Template | AWS GitHub AUTOSCALING CICD CLOUDFLARE EC2 ASG ALB SSL
-https://www.youtube.com/watch?v=qijxQwUWhCs
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qijxQwUWhCs/0.jpg)](https://www.youtube.com/watch?v=qijxQwUWhCs)
 
 Part 3 | ALB AND TARGET GROUPS | AWS GitHub AUTOSCALING CICD CLOUDFLARE EC2 ASG ALB SSL
-https://www.youtube.com/watch?v=6Sb1j60n60E
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6Sb1j60n60E/0.jpg)](https://www.youtube.com/watch?v=6Sb1j60n60E)
 
 Part 4 | ASG Autoscaling | AWS GitHub AUTOSCALING CICD CLOUDFLARE EC2 ASG ALB SSL
-https://www.youtube.com/watch?v=p7NlQQmubmw
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p7NlQQmubmw/0.jpg)](https://www.youtube.com/watch?v=p7NlQQmubmw)
 
 Part 5 | NodeJS AWS Code Pipeline Code Deploy | AWS GitHub AUTOSCALING CICD EC2 ASG ALB SSL
-https://www.youtube.com/watch?v=Re72SFxRdf0
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Re72SFxRdf0/0.jpg)](https://www.youtube.com/watch?v=Re72SFxRdf0)
 
 #aws
 #github
