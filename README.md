@@ -18,7 +18,7 @@ Part 4 | ASG Autoscaling | AWS GitHub AUTOSCALING CICD CLOUDFLARE EC2 ASG ALB SS
 Part 5 | NodeJS AWS Code Pipeline Code Deploy | AWS GitHub AUTOSCALING CICD EC2 ASG ALB SSL
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Re72SFxRdf0/0.jpg)](https://www.youtube.com/watch?v=Re72SFxRdf0)
 
-Part 6 | Nginx NodeJs Port 80 ECT2 AWS | AWS GitHub AUTOSCALING CICD CLOUDFLARE EC2 ASG ALB SSL
+Part 6 | Nginx NodeJs Port 80 EC2 AWS | AWS GitHub AUTOSCALING CICD CLOUDFLARE EC2 ASG ALB SSL
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6O6IGuFFyvw/0.jpg)](https://www.youtube.com/watch?v=6O6IGuFFyvw)
 
 #aws
