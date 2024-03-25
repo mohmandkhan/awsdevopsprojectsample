@@ -8,7 +8,7 @@ app.get("/", (req, res) => {
 
   meta.request("/latest/meta-data/instance-id", function (err, data) {
     res.send(
-      "<h1>Node Demo App</h1> <h4>Message: Success</h4> <p>Version 1.2</p> <br /> " +
+      "<h1>Node Demo App</h1> <h4>Message: Success</h4> <p>Version 1.3</p> <br /> " +
         data
     );
   });
