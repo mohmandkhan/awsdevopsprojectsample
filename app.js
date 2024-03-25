@@ -1,11 +1,17 @@
 const express = require("express");
+const AWS = require("aws-sdk");
 const app = express();
 const port = 8008;
 
 app.get("/", (req, res) => {
-  res.send(
-    "<h1>Node Demo App</h1> <h4>Message: Success</h4> <p>Version 1.1</p>"
-  );
+  var meta = new AWS.MetadataService();
+
+  meta.request("/latest/meta-data/instance-id", function (err, data) {
+    res.send(
+      "<h1>Node Demo App</h1> <h4>Message: Success</h4> <p>Version 1.1</p> <br /> " +
+        data
+    );
+  });
 });
 
 app.get("/products", (req, res) => {
