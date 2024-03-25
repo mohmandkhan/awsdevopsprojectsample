@@ -24,6 +24,9 @@ Part 6 | Nginx NodeJs Port 80 EC2 AWS | AWS GitHub AUTOSCALING CICD CLOUDFLARE E
 Part 7 | Domain Cloudflare Namecheap AWS ALB SSL EC2 NodeJS app Nginx Configuration | AWS DevOps
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/D49-etOxqHk/0.jpg)](https://www.youtube.com/watch?v=D49-etOxqHk)
 
+Part 8 | Deploy Node JS Code to multiple EC2 using CICD Autoscaling in AWS | Complete DevOps Project
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Q0J6AVAXDA8/0.jpg)](https://www.youtube.com/watch?v=Q0J6AVAXDA8)
+
 #aws
 #github
 #autoscaling
